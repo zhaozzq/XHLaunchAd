@@ -8,7 +8,7 @@
 
 #import "XHLaunchAdDownloader.h"
 #import "XHLaunchAdCache.h"
-#import "FLAnimatedImage.h"
+#import <FLAnimatedImage/FLAnimatedImage.h>
 #import "XHLaunchAdConst.h"
 
 #pragma mark - XHLaunchAdDownload

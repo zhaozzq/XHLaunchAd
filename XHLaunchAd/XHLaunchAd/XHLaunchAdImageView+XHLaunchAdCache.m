@@ -7,7 +7,7 @@
 //  代码地址:https://github.com/CoderZhuXH/XHLaunchAd
 
 #import "XHLaunchAdImageView+XHLaunchAdCache.h"
-#import "FLAnimatedImage.h"
+#import <FLAnimatedImage/FLAnimatedImage.h>
 #import "XHLaunchAdConst.h"
 
 @implementation XHLaunchAdImageView (XHLaunchAdCache)
